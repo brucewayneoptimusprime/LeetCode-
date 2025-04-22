@@ -12,9 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0143-reorder-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
