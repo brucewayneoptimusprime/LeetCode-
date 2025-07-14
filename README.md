@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0238-product-of-array-except-self) |
+| [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,8 +36,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
