@@ -21,8 +21,8 @@ class Solution:
                     nr = row + dr
                     nc = col + dc
 
-                    if((nr in range(row)) and (nc in range(cols)) and grid[nr][nc] == "1" 
-                    and ((nr,nc) not in visited)):
+                    if(nr in range(row) and nc in range(cols) and grid[nr][nc] == "1" 
+                    and (nr,nc) not in visited):
                         q.append((nr,nc))
                         visited.add((nr,nc))
 
