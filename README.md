@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -48,5 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
