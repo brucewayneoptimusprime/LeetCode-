@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0143-reorder-list) |
 ## Stack
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0238-product-of-array-except-self) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0338-counting-bits) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
