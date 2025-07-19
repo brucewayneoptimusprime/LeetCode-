@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0143-reorder-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
