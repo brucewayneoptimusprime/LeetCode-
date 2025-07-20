@@ -10,24 +10,19 @@ class Solution:
 
         while len(lists) > 1:
             
-            appened_lists = []
+            appended_lists = []
 
             for i in range(0, len(lists), 2):
                 l1 = lists[i]
                 l2 = lists[i+1] if (i+1) < len(lists) else None
-                appened_lists.append((self.mergelist(l1,l2)))
+                appended_lists.append(self.mergelist(l1,l2))
             lists = appended_lists
         return lists[0]
 
 
+    def mergelist(self, l1, l2):
 
-
-
-
-
-        def mergelist(self, l1, l2):
-
-            dummy = listNode()
+            dummy = ListNode(0)
             tail = dummy
 
             while l1 and l2:
@@ -49,3 +44,7 @@ class Solution:
 
 
         
+
+
+
+       
