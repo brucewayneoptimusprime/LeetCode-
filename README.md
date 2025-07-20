@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
