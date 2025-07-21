@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
