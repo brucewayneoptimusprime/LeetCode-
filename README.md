@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0070-climbing-stairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/brucewayneoptimusprime/LeetCode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
