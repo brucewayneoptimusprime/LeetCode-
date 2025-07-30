@@ -1,10 +1,11 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        prev1 = 0
-        prev2 = 0
+        memory_two_back = 0
+        memory_one_back = 0
 
         for n in nums:
-            temp = prev1
-            prev1 = max(n+prev2, prev1)
-            prev2 = temp
-        return prev1
+            temp = max(n + memory_two_back, memory_one_back)
+            memory_two_back = memory_one_back
+            memory_one_back = temp
+        return memory_one_back
+        
